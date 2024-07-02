@@ -15,7 +15,7 @@
 
 
 ### Links
-https://rafael-gevu.github.io/frontend-mentor-profile/
+https://rafael-gevu.github.io/Frontend-mentor-nft-card/
 
 ### Built with
 - HTML 5
